@@ -35,22 +35,21 @@ The workflow consisted of:
 
 ## 📊 Key Visuals
 
-### Customer Churn Overview Dashboard
+### 🖥️ Customer Churn Overview Dashboard
 ![Dashboard](Supporting%20Files/Customer%20Churn%20Dashboard.png)
 
-### KPIs and Retention Summary
+### 📈 KPIs and Retention Summary
 ![KPIs](Supporting%20Files/KPIs%20Only%20-%20Customer%20Churn%20Dashboard.png)
 
-### Customer Demographics
+### 👥 Customer Demographics
 ![Demographics](Supporting%20Files/Customer%20Churn%20Demographics.png)
 
-### Spending Behaviours
+### 💳 Spending Behaviours
 ![Spending](Supporting%20Files/Visualizing%20customer%20spending%20behaviours.png)
 
-### Pareto Analysis of Customers
+### 📊 Pareto Analysis of Customers
 ![Pareto](Supporting%20Files/Paretor%20Analysis%20of%20Customers.png)
 
----
 
 ## 🔍 Insights & Findings
 
@@ -115,3 +114,4 @@ Adapted and enhanced by **Sumanth P** for data analyst portfolio presentation.
 **Author:** Sumanth P  
 **LinkedIn:** [linkedin.com/in/sumanth-p-4aa127338](https://www.linkedin.com/in/sumanth-p-4aa127338)  
 **GitHub:** [github.com/onsumanth](https://github.com/onsumanth)
+
