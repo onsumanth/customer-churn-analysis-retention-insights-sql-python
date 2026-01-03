@@ -1,4 +1,5 @@
-# Customer Churn Prediction and Retention Analysis (Python & SQL)
+# Customer Churn Analysis & Retention Insights (SQL & Python)
+
 
 ![Customer Churn Dashboard](Supporting%20Files/Customer%20Churn%20Dashboard.png)
 
@@ -116,6 +117,7 @@ Adapted and enhanced by **Sumanth P** for data analyst portfolio presentation.
 **Author:** Sumanth P  
 **LinkedIn:** [linkedin.com/in/sumanth-p-4aa127338](https://www.linkedin.com/in/sumanth-p-4aa127338)  
 **GitHub:** [github.com/onsumanth](https://github.com/onsumanth)
+
 
 
 
